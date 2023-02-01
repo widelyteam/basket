@@ -42,7 +42,7 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
   - [ ] Upload
   
 - Layout
-- [ ] Aspect Ratio
+  - [ ] Aspect Ratio
 
 - Navigation
   - [ ] Breadcrumbs
