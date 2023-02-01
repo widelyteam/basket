@@ -91,4 +91,4 @@ Just Star us on GitHub🙌
 
 ## 🎫License
 
-Licensed under the [MIT license](https://github.com/TailifyUI/tailify/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/PieKit/tailify/blob/main/LICENSE.md).
