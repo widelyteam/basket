@@ -1,16 +1,31 @@
 # tailify
 Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 
+## 🛠️Get Started
 
+```bash
+soon
+```
+
+### 👀Features
+
+- Dark mode class included
+- Automatic sorting tailwind class
 
 ## 🛣Roadmap
 
 > **Warning**
 > This is work in progress. You can follow the progress on Twitter [@tailifyui](https://twitter.com/tailifyui).
 
+### Framework Support
+  - [x] Svelte
+  - [ ] Vue
+  - [ ] Astro
+  - [ ] React
+### List of components
 <details>
 <summary>
-  show / hide
+  [show / hide]
 </summary>
 
 - Actions
@@ -65,16 +80,6 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 
 </details>
 
-
-## 🛠️Get Started
-
-```bash
-soon
-```
-
-### 👀Features
-
-- Dark mode class included
 
 ## 📒Documents
 
