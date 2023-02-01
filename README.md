@@ -68,6 +68,10 @@ soon
 
 - Dark mode class included
 
+##  Documents
+
+See the official site: [ [tailify.design](https://tailify.design/)]
+
 ## License
 
 Licensed under the [MIT license](https://github.com/TailifyUI/tailify/blob/main/LICENSE.md).
