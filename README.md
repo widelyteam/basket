@@ -74,7 +74,7 @@ See the official site: [ [tailify.design](https://tailify.design/)]
 
 ## 🎁Support Us
 
-
+Just Star us on GitHub🙌
 
 ## 🎫License
 
