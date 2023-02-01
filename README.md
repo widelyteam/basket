@@ -8,33 +8,54 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 > **Warning**
 > This is work in progress. You can follow the progress on Twitter [@tailifyui](https://twitter.com/tailifyui).
 
-- [ ] Accordion
-- [ ] Alert Dialog
+<details>
+<summary>
+  show / hide
+</summary>
+
+- Actions
+  - [ ] Alert Dialog
+  - [ ] Button
+  - [ ] Context Menu
+  - [ ] Dialog Modal
+  - [ ] Dropdown Menu
+  - [ ] Popover
+
+- Data display
+  - [ ] Accordion
+  - [ ] Avatar
+  - [ ] Badge
+  - [ ] Code
+  - [ ] Collapsible
+  - [ ] Hover Card
+  - [ ] Progress
+
+- Data input
+  - [ ] Checkbox
+  - [ ] Input
+  - [ ] Radio
+  - [ ] Select
+  - [ ] Slider
+  - [ ] Switch
+  - [ ] Textarea
+  - [ ] Toast
+  - [ ] Upload
+  
+- Layout
 - [ ] Aspect Ratio
-- [ ] Avatar
-- [ ] Button
-- [ ] Badge
-- [ ] Breadcrumbs
-- [ ] Browser
-- [ ] Checkbox
-- [ ] Code
-- [ ] Collapsible
-- [ ] Context Menu
-- [ ] Dialog Modal
-- [ ] Dropdown
-- [ ] Hover Card
-- [ ] Input
-- [ ] Pagination
-- [ ] Popover
-- [ ] Progress
-- [ ] Radio
-- [ ] Select
-- [ ] Slider
-- [ ] Steps
-- [ ] Switch
-- [ ] Tabs
-- [ ] Textarea
-- [ ] Toast
+
+- Navigation
+  - [ ] Breadcrumbs
+  - [ ] Pagination
+  - [ ] Steps
+  - [ ] Tab
+
+- Mockup
+  - [ ] Browser
+  - [ ] Code
+
+
+</details>
 
 
 ## Get Started
