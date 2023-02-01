@@ -14,10 +14,8 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 </summary>
 
 - Actions
-  - [ ] Alert Dialog
   - [ ] Button
   - [ ] Context Menu
-  - [ ] Dialog Modal
   - [ ] Dropdown Menu
   - [ ] Popover
 
@@ -28,19 +26,29 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
   - [ ] Code
   - [ ] Collapsible
   - [ ] Hover Card
-  - [ ] Progress
+  - [ ] Timeline
 
 - Data input
   - [ ] Checkbox
+  - [ ] DatePicker
   - [ ] Input
   - [ ] Radio
+  - [ ] Rating
   - [ ] Select
   - [ ] Slider
   - [ ] Switch
   - [ ] Textarea
+  - [ ] TimePicker
   - [ ] Toast
   - [ ] Upload
-  
+
+- Feedback
+  - [ ] Alert Dialog
+  - [ ] Dialog
+  - [ ] Progress
+  - [ ] Skeleton
+  - [ ] Spin
+ 
 - Layout
   - [ ] Aspect Ratio
 
