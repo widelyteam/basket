@@ -3,7 +3,7 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 
 
 
-## Roadmap
+## 🛣Roadmap
 
 > **Warning**
 > This is work in progress. You can follow the progress on Twitter [@tailifyui](https://twitter.com/tailifyui).
@@ -58,20 +58,24 @@ Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 </details>
 
 
-## Get Started
+## 🛠️Get Started
 
 ```bash
 soon
 ```
 
-### Features
+### 👀Features
 
 - Dark mode class included
 
-##  Documents
+## 📒Documents
 
 See the official site: [ [tailify.design](https://tailify.design/)]
 
-## License
+## 🎁Support Us
+
+
+
+## 🎫License
 
 Licensed under the [MIT license](https://github.com/TailifyUI/tailify/blob/main/LICENSE.md).
