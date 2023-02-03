@@ -1,10 +1,10 @@
-# tailify
+# tailify (in Alpha)
 Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 
 ## 🛠️Get Started
 
 ```bash
-soon
+First version is not published on npm yet.
 ```
 
 ### 👀Features
