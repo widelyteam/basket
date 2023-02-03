@@ -21,9 +21,12 @@ First version is not published on npm yet.
 
 ### Framework Support
   - [x] Svelte
+  - [x] Pure JS
   - [ ] Vue
-  - [ ] Astro
+  - [x] Astro
   - [ ] React
+  
+ 
 ### List of components
 <details>
 <summary>
