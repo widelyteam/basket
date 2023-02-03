@@ -29,15 +29,15 @@ soon
 </summary>
 
 - Actions
-  - [ ] Button
+  - [x] Button
   - [ ] Context Menu
-  - [ ] Dropdown Menu
+  - [x] Dropdown Menu
   - [ ] Popover
 
 - Data display
   - [ ] Accordion
-  - [ ] Avatar
-  - [ ] Badge
+  - [x] Avatar
+  - [x] Badge
   - [ ] Code
   - [ ] Collapsible
   - [ ] Hover Card
