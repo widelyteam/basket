@@ -12,7 +12,7 @@ First version is not published on npm yet.
 ### 👀Features
 
 - Dark mode class included
-- Automatic sorting tailwind class
+- Automatic sorting tailwind clas
 
 ## 🛣Roadmap
 
@@ -23,7 +23,6 @@ First version is not published on npm yet.
   - [x] Svelte
   - [x] Pure JS
   - [ ] Vue
-  - [x] Astro
   - [ ] React
   
  
@@ -51,10 +50,10 @@ First version is not published on npm yet.
 - Data input
   - [ ] Checkbox
   - [ ] DatePicker
-  - [ ] Input
+  - [x] Input
   - [ ] Radio
   - [ ] Rating
-  - [ ] Select
+  - [x] Select
   - [ ] Slider
   - [ ] Switch
   - [ ] Textarea
