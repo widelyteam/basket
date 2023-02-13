@@ -1,4 +1,4 @@
-# tailify (in Alpha)
+# tailify (First Beta will publish in March)
 Beautifully UI components built with Tailwind CSS For Svelte, React, Vue.
 
 ![hero](https://m1r.ai/9/xm6g2.png)
